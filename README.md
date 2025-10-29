@@ -4,6 +4,8 @@
 
 This repository contains the source code and supplementary materials for the paper titled CLEAR: An Efficient Low-Illumination Enhancement Method for Improved Visibility in Underwater Images. This research focuses on the visual enhancement of underwater images with low-illumination. The paper has been accepted for publication in IEEE Access.
 
+![View Image](CLEAR.png)
+
 ## 🛠️ 2. Requirements
 
 1. opencv-python == 4.9.0.80
