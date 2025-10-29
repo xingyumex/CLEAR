@@ -28,3 +28,8 @@ To test the model, follow these steps:
    python inference.py
 
 3. The enhanced images will be saved in the ./2_Output directory.
+
+## 📄 Citation
+If this work contributes to your research, we would appreciate it if you could cite our paper:
+
+```bibtex
