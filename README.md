@@ -37,6 +37,8 @@ If this work contributes to your research, we would appreciate it if you could c
   title={CLEAR: An Efficient Low-Illumination Enhancement Method for Improved Visibility in Underwater Images},
   author={Perez-Zarate, Ezequiel and Ramos-Soto, Oscar and Ramos-Frutos, Jorge and Oliva, Diego and P{\'e}rez-Cisneros, Marco},
   journal={IEEE Access},
+  volume={13},
+  pages={187518-187537},
   year={2025},
   publisher={IEEE}
 }
